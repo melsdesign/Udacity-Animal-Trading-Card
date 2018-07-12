@@ -1,0 +1,11 @@
+
+.content { width: 300px;
+      padding: 20px;
+      border-style: ridge;
+      box-shadow:10px 10px 5px 0px rgba(217,210,217,1);}
+.style {border-style:ridge;
+        padding: 10px}
+
+.list { list-style: none;}
+.fact {font-weight: bold;}
+.interesting{font-style: italic;}
